@@ -1,0 +1,18 @@
+# Versions verified to run this app on Python 3.13 (the Pipfile.lock pins target Python 3.6)
+flask==2.2.5
+werkzeug==2.2.3
+flask-sqlalchemy==2.5.1
+sqlalchemy==1.4.52
+bootstrap-flask==1.8.0
+flask-wtf==1.1.1
+wtforms==3.0.1
+email-validator
+flask-login==0.6.3
+flask-migrate==4.0.5
+flask-moment==1.0.5
+flask-debugtoolbar==0.13.1
+flask-sslify
+python-dotenv
+faker
+unidecode
+gunicorn
